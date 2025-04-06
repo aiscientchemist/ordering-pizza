@@ -1,6 +1,6 @@
 def pizza_order():
     while True:
-        pizza_cost = float(input("Enter the cost of the pizza: "))
+        pizza_cost = float(input("Welcome! Enter the cost of the pizza: "))
         add = {
             "orange_juice": 2.5,
             "lemonade": 3.5,
