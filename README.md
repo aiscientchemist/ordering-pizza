@@ -1,0 +1,2 @@
+# ordering-pizza
+ Do you ever order pizza with your friends? One of the challenges that often comes up when sharing a pizza is figuring out how much each person has to pay. Whether you’re splitting the cost evenly or paying for what you actually ate, it can be tricky to make sure everyone pays their fair share. If you’ve ever found yourself wondering how to divide the bill, you’re not alone! There are different ways to solve this, depending on what feels most fair and convenient for everyone involved
